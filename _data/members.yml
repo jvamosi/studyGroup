@@ -5,8 +5,15 @@
     - Programming
     - Open Science
 - name: Jana Vamosi
-  affiliation: Department of Biological Sciences
+  affiliation: Department of Biological Sciences, University of Calgary
   github: jvamosi
   interests:
     - Biodiversity
+    - Open Science
+- name: Steven Vamosi
+  affiliation: Department of Biological Sciences, University of Calgary
+  github: spiracles
+  interests:
+    - Invasion Biology
+    - Biostatistics
     - Open Science
